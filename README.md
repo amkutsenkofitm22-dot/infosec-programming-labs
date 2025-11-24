@@ -1,2 +1,16 @@
-# infosec-programming-labs
-Laboratory works for the course “Applied Aspects of Programming in Information and Cybersecurity Systems”.
+# Laboratory Works  
+### for the subject  
+**“Applied Aspects of Programming in Information and Cybersecurity Systems”**
+
+---
+
+## 📂 Laboratory Works
+
+- [Lab 1](./lab1/)
+- [Lab 2](./lab2/)
+- [Lab 3](./lab3/)
+- [Lab 4](./lab4/)
+- [Lab 5](./lab5/)
+- [Lab 6](./lab6/)
+
+---
