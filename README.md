@@ -1,5 +1,4 @@
-# Laboratory Works  
-### for the subject  
+# Laboratory Works   
 **“Applied Aspects of Programming in Information and Cybersecurity Systems”**
 
 ---
