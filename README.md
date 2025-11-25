@@ -3,13 +3,13 @@
 
 ---
 
-## 📂 Laboratory Works
+## 📂
 
-- [Lab 1](./lab1/)
-- [Lab 2](./lab2/)
-- [Lab 3](./lab3/)
-- [Lab 4](./lab4/)
-- [Lab 5](./lab5/)
-- [Lab 6](./lab6/)
+- [Laboratory work 1](./lab1/)
+- [Laboratory work 2](./lab2/)
+- [Laboratory work 3](./lab3/)
+- [Laboratory work 4 - 5](./lab4-5/)
+- [Laboratory work 6](./lab6/)
+- [Laboratory work 7](./lab7/)
 
 ---
