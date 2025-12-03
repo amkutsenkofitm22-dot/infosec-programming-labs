@@ -1,8 +1,10 @@
-# Laboratory & Practical Works
+# Laboratory & Practical works
+
+The **✅** mark indicates completed work.
 
 ---
 
-## Laboratory Works
+## Laboratory works
 
 ### 📂
 - **[Laboratory work 1](./lab1/)** ✅
@@ -18,7 +20,7 @@
 
 ---
 
-## Practical Works
+## Practical works
 
 ### 📂
 
