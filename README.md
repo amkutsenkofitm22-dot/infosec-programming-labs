@@ -1,6 +1,4 @@
 # Laboratory Works   
----
-
 ## 📂
 
 - [Laboratory work 1](./lab1/) ✅
@@ -16,8 +14,6 @@
 
 ---
 # Practical Works   
----
-
 ## 📂
 
 - [Practical work 1 - 2](./pract1-2/)
