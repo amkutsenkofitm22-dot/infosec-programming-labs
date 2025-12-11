@@ -1,0 +1,49 @@
+{
+  "logging": {
+    "path": "logs/events.jsonl"
+  },
+  "rules": [
+    {
+      "id": 1,
+      "priority": 10,
+      "action": "deny",
+      "src_ip_cidr": "0.0.0.0/0",
+      "dst_ip_cidr": "142.250.0.0/16",
+      "src_port": 0,
+      "dst_port": 443,
+      "proto": "TCP",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "priority": 11,
+      "action": "deny",
+      "src_ip_cidr": "0.0.0.0/0",
+      "dst_ip_cidr": "172.217.0.0/16",
+      "src_port": 0,
+      "dst_port": 443,
+      "proto": "TCP",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "priority": 20,
+      "action": "deny",
+      "src_ip_cidr": "0.0.0.0/0",
+      "dst_ip_cidr": "142.250.0.0/16",
+      "src_port": 0,
+      "dst_port": 80,
+      "proto": "TCP",
+      "enabled": true
+    }
+  ],
+  "services": [
+    {
+      "proto": "TCP",
+      "listen_host": "127.0.0.1",
+      "listen_port": 8080,
+      "target_host": "youtube.com",
+      "target_port": 443
+    }
+  ]
+}
