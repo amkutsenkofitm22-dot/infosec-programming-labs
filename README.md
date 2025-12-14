@@ -14,7 +14,7 @@ The **✅** mark indicates completed work.
 - **[Laboratory work 8](./lab8/)** ✅
 - **[Laboratory work 9–10](./lab9-10/)** ✅
 - **[Laboratory work 11](./lab11/)** ✅
-- **[Laboratory work 12–13](./lab12-13/)**
+- **[Laboratory work 12–13](./lab12-13/)** ✅
 
 ## Practical works
 
