@@ -20,7 +20,7 @@ The **✅** mark indicates completed work.
 
 ### 📂
 
-- **[Practical work 1–2](./pract1-2/)**
+- **[Practical work 1–2](./pract1-2/)** ✅
 - **[Practical work 3–4](./pract3-4/)** ✅
 - **[Practical work 5–7](./pract5-7/)**
 - **[Practical work 8–10](./pract8-10/)**
